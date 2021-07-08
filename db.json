@@ -3,8 +3,9 @@
         "id": 0,
         "name": "Pinocho",
         "description": "Basandose en una figura retórica y dandole un vuelco a la historia conocida del cuento infantil Pinocho.",
-        "image": "https://imgur.com/lhrtP3i"
-    },{
+        "image": "https://i.imgur.com/lhrtP3i.jpeg"
+    },
+    {
         "id": 1,
         "name": "Composición 1",
         "description": "Obra adaptada de Damien Hirst.",
@@ -29,3 +30,4 @@
         "image": "https://imgur.com/cklCVwk"
     }
 ]
+
