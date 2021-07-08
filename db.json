@@ -1,34 +1,31 @@
-{
-    "piezasGraficas" : [
-        {
-            "id": 0,
-            "name": "Pinocho",
-            "description": "Basandose en una figura retórica y dandole un vuelco a la historia conocida del cuento infantil Pinocho.",
-            "image": "https://imgur.com/lhrtP3i"
-        },{
-            "id": 1,
-            "name": "Composición 1",
-            "description": "Obra adaptada de Damien Hirst.",
-            "image": "https://imgur.com/m5oHWXU"
-        },
-        {
-            "id": 2,
-            "name": "Composición 2",
-            "description": "Obra de VJohannes Vermeer, La joven de la perla adaptada.",
-            "image": "https://imgur.com/SDFWXc0"
-        },
-        {
-            "id": 3,
-            "name": "Composición 3",
-            "description": "Obra El beso de Gustav Klimt adaptada.",
-            "image": "https://imgur.com/uHdMbUt"
-        },
-        {
-            "id": 4,
-            "name": "Composición 4",
-            "description": "Obra Just what is it that makes today's homes so ddifferent, so appealing? de Richard Hamilton adaptada.",
-            "image": "https://imgur.com/cklCVwk"
-        }
-    ]
-}
-
+[
+    {
+        "id": 0,
+        "name": "Pinocho",
+        "description": "Basandose en una figura retórica y dandole un vuelco a la historia conocida del cuento infantil Pinocho.",
+        "image": "https://imgur.com/lhrtP3i"
+    },{
+        "id": 1,
+        "name": "Composición 1",
+        "description": "Obra adaptada de Damien Hirst.",
+        "image": "https://imgur.com/m5oHWXU"
+    },
+    {
+        "id": 2,
+        "name": "Composición 2",
+        "description": "Obra de VJohannes Vermeer, La joven de la perla adaptada.",
+        "image": "https://imgur.com/SDFWXc0"
+    },
+    {
+        "id": 3,
+        "name": "Composición 3",
+        "description": "Obra El beso de Gustav Klimt adaptada.",
+        "image": "https://imgur.com/uHdMbUt"
+    },
+    {
+        "id": 4,
+        "name": "Composición 4",
+        "description": "Obra Just what is it that makes today's homes so ddifferent, so appealing? de Richard Hamilton adaptada.",
+        "image": "https://imgur.com/cklCVwk"
+    }
+]
